@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Factory;
+package com.example.designpatternsgof.Creational.Factory.SimpleFactory;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

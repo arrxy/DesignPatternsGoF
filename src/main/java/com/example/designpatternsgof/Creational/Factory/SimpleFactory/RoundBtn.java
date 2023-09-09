@@ -1,9 +1,8 @@
-package com.example.designpatternsgof.Creational.Factory;
+package com.example.designpatternsgof.Creational.Factory.SimpleFactory;
 
-import lombok.AllArgsConstructor;
+import com.example.designpatternsgof.Creational.Factory.SimpleFactory.Button;
 
-@AllArgsConstructor
-public class RoundBtn extends Button{
+public class RoundBtn extends Button {
     private Double radius;
     private Double border;
 
