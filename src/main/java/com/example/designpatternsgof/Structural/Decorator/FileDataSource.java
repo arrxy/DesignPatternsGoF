@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Decorator.datasource;
+package com.example.designpatternsgof.Structural.Decorator;
 
 //STEP 2: Concrete Product Class
 public class FileDataSource implements Datasource{

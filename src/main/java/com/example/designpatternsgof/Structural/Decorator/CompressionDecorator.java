@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Decorator.datasource;
+package com.example.designpatternsgof.Structural.Decorator;
 
 public class CompressionDecorator extends BaseDecorator{
     public CompressionDecorator(Datasource nextLayer) {

@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Decorator.datasource;
+package com.example.designpatternsgof.Structural.Decorator;
 
 public class Client {
     public static void main(String[] args) {

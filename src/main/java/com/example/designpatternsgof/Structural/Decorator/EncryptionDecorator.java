@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Decorator.datasource;
+package com.example.designpatternsgof.Structural.Decorator;
 
 public class EncryptionDecorator extends BaseDecorator {
     public EncryptionDecorator(Datasource nextLayer) {
