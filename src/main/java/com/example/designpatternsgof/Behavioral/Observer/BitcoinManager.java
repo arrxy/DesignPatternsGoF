@@ -1,5 +1,8 @@
 package com.example.designpatternsgof.Behavioral.Observer;
 
+import lombok.AllArgsConstructor;
+
+@AllArgsConstructor
 public class BitcoinManager extends Publisher{
     private Bitcoin bitcoin;
 
