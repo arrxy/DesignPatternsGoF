@@ -1,4 +1,4 @@
-package com.example.designpatternsgof.Creational.Prototype.Game;
+package com.example.designpatternsgof.Creational.Prototype;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
